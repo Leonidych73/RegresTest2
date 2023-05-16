@@ -14,6 +14,9 @@ public class UserData {
         this.last_name = last_name;
         this.avatar = avatar;
     }
+    public UserData(){
+
+    }
 
     public Integer getId() {
         return id;
